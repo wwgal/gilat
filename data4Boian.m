@@ -1,4 +1,5 @@
 %% generate wc mat
+%% new comment - no ^M?
 wc_data_file='C:\WC data\gilat_all_avg_data_050419';
 
 %time variables from excel
